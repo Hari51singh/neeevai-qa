@@ -1,0 +1,25 @@
+# neeevAI School LMS – QA Documentation
+
+**Module:** Login & Signup  
+**QA Type:** Manual QA  
+**Focus Areas:** UI Testing, Test Case Writing, Bug Reporting
+This repository contains manual QA documentation for the neeevAI School Learning Management System.
+
+## Scope
+- Login Module
+- Signup Module (if enabled)
+- UI validation
+- Functional testing
+- Bug reporting
+
+## QA Activities
+- Manual testing
+- UI/UX testing
+- Test case creation
+- Bug reporting and verification
+
+## Tested Environment
+- URL: https://school.neeev.ai/login
+- Browser: Chrome
+- Platform: Web
+ 
